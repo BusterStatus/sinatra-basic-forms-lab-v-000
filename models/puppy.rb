@@ -6,3 +6,4 @@ class Puppy < Sinatra::Base
     @name = name
     @breed = breed
     @months_old = months_old
+  end
